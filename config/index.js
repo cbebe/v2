@@ -16,7 +16,7 @@ async function createConfig() {
     title: "Charles Ancheta",
     tagline: "A Computer Engineering Student at the University of Alberta",
     url: website.url,
-    baseUrl: "/",
+    baseUrl: "/v2",
     trailingSlash: true,
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",

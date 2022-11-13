@@ -1,4 +1,4 @@
-# charlesancheta.com
+# charlesancheta.com (v2) <https://cbebe.github.io/v2/>
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 

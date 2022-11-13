@@ -24,11 +24,11 @@ let thyck = {
 }
 
 let website = {
-  "url": "https://charlesancheta.com",
-  "repoUrl": "https://github.com/cbebe/charlesancheta.com",
+  "url": "https://cbebe.github.io/v2",
+  "repoUrl": "https://github.com/cbebe/v2",
 }
 
 let repo = {
   "orgName": "cbebe",
-  "projectName": "charlesancheta.com",
+  "projectName": "v2",
 }
